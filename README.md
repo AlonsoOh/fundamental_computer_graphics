@@ -11,3 +11,6 @@
 ### 12주차) 
 -  OpenGL로 구현한 Texture Mapping
 -  카메라의 대화식 조작
+### 13주차) 
+-  OpenGL로 구현한 Blending
+-  OpenGL로 구현한 그 밖의 다른 효과
