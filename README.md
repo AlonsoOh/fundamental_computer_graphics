@@ -8,3 +8,6 @@
 ### HW4) OpenGL API 함수를 사용한 3D 뷰잉을 활용한 문제를 만들고 문제를 구현한 프로젝트 2개 만들기
 ### 10주차) OpenGL로 구현한 Phong 조명 모델
 ### 11주차) Gouraud Shading vs Phong Shading
+### 12주차) 
+-  OpenGL로 구현한 Texture Mapping
+-  카메라의 대화식 조작
